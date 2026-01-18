@@ -320,7 +320,3 @@ This project is for educational purposes.
 
 ---
 
-## Acknowledgments
-
-- HuggingFace for the SmolLM2 model and training recipes
-- Andrej Karpathy for nanoGPT inspiration
