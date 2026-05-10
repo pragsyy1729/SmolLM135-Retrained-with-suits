@@ -2,6 +2,9 @@
 
 This repository contains a from-scratch implementation of the SmolLM2-135M model architecture, trained on custom text data.
 
+LIVE DEMO - [SmolLM2-135M Demo](https://huggingface.co/spaces/pragsyy1729/SmolLM2-135M-from-scratch)
+
+
 ## Table of Contents
 - [Model Architecture](#model-architecture)
 - [Parameter Calculation](#parameter-calculation)
